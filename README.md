@@ -1,6 +1,7 @@
 # DYNAMIC-Shaders- Rain/Wetness (Book of the Dead Intergration)
 
-This Demo showcases my DYNAMIC: Rain/Wetness shaders which dynamicly covers gameobjects in rain/wetness. 
+This Demo showcases my DYNAMIC: Rain/Wetness shaders 
+- Covers gameobjects in rain/wetness. 
 - Rain/Wetness coverage can be controlled using my DYNAMIC- Weather Manager, or via Enviro- Sky and Weather Intergration
 - All of my shaders come with built-in support for Vegetation Studio's Instanced Indirect Shader
 - 
