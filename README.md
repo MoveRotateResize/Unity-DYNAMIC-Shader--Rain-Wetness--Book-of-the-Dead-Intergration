@@ -26,13 +26,13 @@ There are also examples of how to use custom render textures to generate water d
       
 # Change Logs
 =================================
-Version 1.0
-- Replaced all shaders with my own [DYNAMIC: Shaders- Rain/Wetness (avalible on the Unity Asset Store)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  "
-
-- Added my DYNAMIC: Weather Weather Manager
-- Added my DYNAMIC: Day And Night Manager
-- Added my DYNAMIC: VFX- Rain
-- Replaced First Person Controller with my [DYNAMIC: First Person Controller (avalible on the Unity Asset Store)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html) 
+- Version 1.0
+    - Replaced all shaders with my own [DYNAMIC: Shaders- Rain/Wetness (avalible on the Unity Asset Store)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  "
+    
+    - Added my DYNAMIC: Weather Weather Manager
+    - Added my DYNAMIC: Day And Night Manager
+    - Added my DYNAMIC: VFX- Rain
+    - Replaced First Person Controller with my [DYNAMIC: First Person Controller (avalible on the Unity Asset Store)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html) 
 =================================
 
 # Disclaimer
