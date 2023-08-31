@@ -1,10 +1,12 @@
-# DYNAMIC-Shaders- Rain/Wetness          (Book of the Dead Intergration)
-**Nothing Updated Yet. This is a Work in Progress, right now this is my wish list
+# DYNAMIC-Shaders- Rain/Wetness (Book of the Dead Intergration)
 
-This HDRP project is a collection of scenes showcasing the use of the new water system in various scenarios.
-- For more information about water in HDRP: [Documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)
-  
-**This is my updated version of this amazing Unity Demo Scene. It showcases my skills as an Envriomental/Tech Artist, as well as my assets that are available on the Unity Asset Store
+This Demo showcases my DYNAMIC: Rain/Wetness shaders which dynamicly covers gameobjects in rain/wetness. 
+- Rain/Wetness coverage can be controlled using my DYNAMIC- Weather Manager, or via Enviro- Sky and Weather Intergration
+- All of my shaders come with built-in support for Vegetation Studio's Instanced Indirect Shader
+- 
+
+[Documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  
+This is my updated version of this amazing Unity Demo Scene. It showcases my skills as an Envriomental/Tech Artist, as well as my assets that are available on the Unity Asset Store
 - I've redone the lighting and weather effects from scratch
   - This updated demo shows off...
     - Replaced all shaders with my own "Dynamic Shader- Rain/Wetness (avalible on the Unity Asset store)"
