@@ -8,12 +8,6 @@ This Demo showcases my DYNAMIC: Rain/Wetness shaders
 # Links
 [Unity Store: DYNMAIC: Shaders- Rain/Wetness](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  
 [Unity Store: DYNMAIC: Shaders Demo- Rain/Wetness (Book of the Dead Intergration)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  
-   
-# PLEASE READ  
-- **This is the FREE EXE DEMO ONLY
-- To play with this scene in the Unity Editor...
-    - Requires FREE DYNMAIC: Shaders Demo- Rain/Wetness(Book of the Dead Intergration)
-    - Requires PAID DYNMAIC: Shaders- Rain/Wetness
 
 # Island scene Before:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
@@ -23,6 +17,12 @@ This Demo showcases my DYNAMIC: Rain/Wetness shaders
 This scene use an infinite water surface to simulate the ocean. In addition, this scene uses water deformers and foam generators to improve the visual around the shoreline.
 There are also examples of how to use custom render textures to generate water deformers.
 
+# PLEASE READ  
+- **This is the FREE EXE DEMO ONLY
+- To play with this scene in the Unity Editor...
+    - Requires FREE DYNMAIC: Shaders Demo- Rain/Wetness(Book of the Dead Intergration)
+    - Requires PAID DYNMAIC: Shaders- Rain/Wetness
+      
 # Change Logs
 ========================================================================================
 Version 1.0
