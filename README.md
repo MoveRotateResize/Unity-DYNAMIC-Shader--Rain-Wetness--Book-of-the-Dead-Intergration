@@ -30,8 +30,8 @@ This Demo showcases my DYNAMIC: Rain/Wetness shaders
 # PLEASE READ  
 - **This is the FREE EXE DEMO ONLY
 - To play with this scene in the Unity Editor...
-    - Requires FREE DYNMAIC: Shaders Demo- Rain/Wetness(Book of the Dead Intergration)
-    - Requires PAID DYNMAIC: Shaders- Rain/Wetness
+    - Requires FREE [DYNMAIC: Shaders Demo- Rain/Wetness (Book of the Dead Intergration)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  
+    - Requires PAID [DYNMAIC: Shaders- Rain/Wetness](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  
       
 # Change Logs
 - Version 1.0
