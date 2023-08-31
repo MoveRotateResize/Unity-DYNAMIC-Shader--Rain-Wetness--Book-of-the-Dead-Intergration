@@ -26,7 +26,7 @@ There are also examples of how to use custom render textures to generate water d
       
 # Change Logs
 - Version 1.0
-    - Replaced all shaders with my own [DYNAMIC: Shaders- Rain/Wetness (avalible on the Unity Asset Store)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  "
+    - Replaced all shaders with my own [DYNAMIC: Shaders- Rain/Wetness (avalible on the Unity Asset Store)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html) 
     
     - Added my DYNAMIC: Weather Weather Manager
     - Added my DYNAMIC: Day And Night Manager
@@ -34,11 +34,11 @@ There are also examples of how to use custom render textures to generate water d
     - Replaced First Person Controller with my [DYNAMIC: First Person Controller (avalible on the Unity Asset Store)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html) 
 
 # Disclaimer
-Book of the Dead: Unity Companion License
-Poly2Tri: BSD 3-clause
-csg.js, KdTree, Cinder, pb_Stl: MIT
-MkDocs: BSD 2-clause
-Asap Font: Sil Open Font License (OFL-1.1)
-Noise: CC0 1.0
-HapkiLibs: No copyright is claimed, and you may use it for any purpose you like.
-TerrainEvo 3: All editor and authoring files are licensed under the Mozilla Public license v2.0; All runtime files are licensed under the BSD 3-clause.
+- Book of the Dead: Unity Companion License
+- Poly2Tri: BSD 3-clause
+- csg.js, KdTree, Cinder, pb_Stl: MIT
+- MkDocs: BSD 2-clause
+- Asap Font: Sil Open Font License (OFL-1.1)
+- Noise: CC0 1.0
+- HapkiLibs: No copyright is claimed, and you may use it for any purpose you like.
+- TerrainEvo 3: All editor and authoring files are licensed under the Mozilla Public license v2.0; All runtime files are licensed under the BSD 3-clause.
