@@ -1,7 +1,4 @@
 # DYNAMIC-Shaders- Rain/Wetness (Book of the Dead Intergration Demo)
-
-
-
 # Before:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
 
@@ -22,12 +19,14 @@ This Demo showcases my DYNAMIC: Rain/Wetness shaders
 [Unity Store: DYNMAIC: Shaders Demo- Rain/Wetness (Book of the Dead Intergration)](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  
 
 # How to Use
-1.) Download File
-2.) Run DYNAMIC RainWetness Demo.exe
+- Download File
+- Run DYNAMIC RainWetness Demo.exe
 
 # Controls
-- WASD for movement
-- Mouse to look
+- WASD to Move
+- Mouse to Look
+- Space to Jump
+- C to Crouch
 - F1 to change from Sunny to Rainy Weather
 - F2 to 
 - F3 to Freeze/Unfreeze Time
