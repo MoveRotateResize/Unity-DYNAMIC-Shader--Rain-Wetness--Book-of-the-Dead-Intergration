@@ -1,7 +1,11 @@
 # DYNAMIC-Shaders- Rain/Wetness (Book of the Dead Intergration Demo)
-# Before:
+# Rain/Wetness:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
-# After:
+# Dynamic Rain/Wetness:
+![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
+# Realtime Lighting:
+![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
+# Wind:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
 # Features
 This Demo showcases my DYNAMIC: Rain/Wetness shaders 
