@@ -1,12 +1,8 @@
 # DYNAMIC-Shaders- Rain/Wetness (Book of the Dead Intergration Demo)
 # Before:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
-
 # After:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
-This scene use an infinite water surface to simulate the ocean. In addition, this scene uses water deformers and foam generators to improve the visual around the shoreline.
-There are also examples of how to use custom render textures to generate water deformers.
-
 # Features
 This Demo showcases my DYNAMIC: Rain/Wetness shaders 
 - Covers gameobjects in Rain/Wetness
