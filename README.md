@@ -1,5 +1,13 @@
 # MoveRotateResize Presets...
 # DYNAMIC-Shaders- Rain/Wetness (Book of the Dead Intergration Demo)
+
+# Features
+This Demo showcases my DYNAMIC: Rain/Wetness shaders 
+- Covers gameobjects in Rain/Wetness
+- Coverage can be controlled using my DYNAMIC- Weather Manager, or via Enviro- Sky and Weather Intergration
+- Vegetation Wind using Book of the Dead's wind shader
+- Built-In Support for Vegetation Studio: Instanced Indirect Shader
+  
 # Rain/Wetness:
 ![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/pxfuel.jpg)
 # Dynamic Rain/Wetness:
@@ -8,12 +16,6 @@
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
 # Wind:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
-# Features
-This Demo showcases my DYNAMIC: Rain/Wetness shaders 
-- Covers gameobjects in Rain/Wetness
-- Coverage can be controlled using my DYNAMIC- Weather Manager, or via Enviro- Sky and Weather Intergration
-- Vegetation Wind using Book of the Dead's wind shader
-- Built-In Support for Vegetation Studio: Instanced Indirect Shader
   
 # Links
 [Unity Store: DYNMAIC: Shaders- Rain/Wetness](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@16.0/manual/WaterSystem.html)  
