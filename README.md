@@ -9,7 +9,7 @@ This Demo showcases my DYNAMIC: Rain/Wetness shaders
 - Built-In Support for Vegetation Studio: Instanced Indirect Shader
   
 # DYNAMIC: Shaders- Rain/Wetness:
-![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/pxfuel.jpg)
+![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/21d82b6d-d6fc-405a-b39a-bafc8da45a93.jpg)
 # Before
 ![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/35092867-fd42-431b-8aab-a4e0d793bbf7_orig.jpg)
 # After
