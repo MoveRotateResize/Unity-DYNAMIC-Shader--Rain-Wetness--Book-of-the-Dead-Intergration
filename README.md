@@ -10,8 +10,10 @@ This Demo showcases my DYNAMIC: Rain/Wetness shaders
   
 # Rain/Wetness:
 ![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/pxfuel.jpg)
-# Dynamic Rain/Wetness:
-![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
+# Before
+![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/35092867-fd42-431b-8aab-a4e0d793bbf7_orig.jpg)
+# After
+![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/30dd83ce-5068-4de4-b063-3c6353e76eba_orig.jpg)
 # Realtime Lighting:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
 # Wind:
