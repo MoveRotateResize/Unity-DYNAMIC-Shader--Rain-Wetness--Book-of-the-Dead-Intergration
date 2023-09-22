@@ -3,9 +3,10 @@
 
 # Features
 This Demo showcases my DYNAMIC: Rain/Wetness shaders 
--  Used Blender Geo Nodes to create random shaped rocks
--  Lets the user adjust settings to help create the rock that they invision
--  Procedurally Textured using my custom Substance Painter smart material
+- Covers gameobjects in Rain/Wetness
+- Coverage can be controlled using my DYNAMIC- Weather Manager, or via Enviro- Sky and Weather Intergration
+- Vegetation Wind using Book of the Dead's wind shader
+- Built-In Support for Vegetation Studio: Instanced Indirect Shader
 
   
 # Demo:
