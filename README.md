@@ -3,12 +3,12 @@
 
 # Features
 This Demo showcases my DYNAMIC: Rain/Wetness shaders 
-- Covers gameobjects in Rain/Wetness
-- Coverage can be controlled using my DYNAMIC- Weather Manager, or via Enviro- Sky and Weather Intergration
-- Vegetation Wind using Book of the Dead's wind shader
-- Built-In Support for Vegetation Studio: Instanced Indirect Shader
+-  Used Blender Geo Nodes to create random shaped rocks
+-  Lets the user adjust settings to help create the rock that they invision
+-  Procedurally Textured using my custom Substance Painter smart material
+
   
-# DYNAMIC: Shaders- Rain/Wetness:
+# Demo:
 ![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/21d82b6d-d6fc-405a-b39a-bafc8da45a93.jpg)
 # Before
 ![The Island](https://github.com/MoveRotateResize/Unity-DYNAMIC-Shader-Rain-Wetness-Book-of-the-Dead-Intergration/blob/main/35092867-fd42-431b-8aab-a4e0d793bbf7_orig.jpg)
